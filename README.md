@@ -1,8 +1,8 @@
-﻿# DataGenerator
+# DataGenerator Library
 ## Basic information
 After couple of test project's using Selenium Webdriver I've noticed, that I'm implementing several methods used for data generation over and over again. I've fought *wouldyn't it be nice and easier to have them implemented once inside external library?*. It would...
 
-I've done some research and found couple of good sites that enabled to generate required data. Those pages had an downside though - data was provided only by web page and therefore, unusable from tests performed on different application.
+I've done some research and found couple of good sites that enabled generation of required data. Those pages had an downside though - data was provided only by web page and therefore, unusable(inaccessible) from tests without external input files.
 
 To My wonder, I was unable to find and library that could be included within Selenium project. Because I'm a little bit tired from reimplementing those methods over and over again... I've created My own library that enables:
 * generation of PESEL number (both male and female) for provided age;
@@ -117,9 +117,9 @@ For REGON (statistical) numbers generations, there are two seperate methods:
 
 Since I couldyn't find good description for algorithm used in English, below short description:
 
-Each REGON number except last digit, that is reserved for checksum is multiplied by wages and sum up. After this, result for modulo 11 operation is being performed. If result equals 10, then checksum is 0. For other results, rest from modulo operation is checksum (last REGON digit).
+Each REGON number except last digit, that is reserved for checksum is multiplied by weights and sum up. After this, result for modulo 11 operation is being performed. If result equals 10, then checksum is 0. For other results, rest from modulo operation is checksum (last REGON digit).
 
-**Wages used:**
+**Weights used:**
 * 89234567 - for short number; 
 * 2485097361248 - for long number;
  
@@ -138,9 +138,9 @@ Each REGON number except last digit, that is reserved for checksum is multiplied
 ### Generate NIP
 Least but not last comes NIP (tax identification) number accessed by `DataGenerator.generateNIP();` method. Once again I was unable to find good algorithm description in English, used algorithm mechanism below:
 
-Idea is the same as in REGON, each digit is being multiplied by wages and sum up. After this, rest from modulo 11 for sum result operation is treated as checksum and last NIP digit. If result equals zero, NIP is treated as invalid and regenerated. 
+Idea is the same as in REGON, each digit is being multiplied by weights and sum up. After this, rest from modulo 11 for sum result operation is treated as checksum and last NIP digit. If result equals zero, NIP is treated as invalid and regenerated. 
 
-**Wages used:**
+**Weights used:**
 * 657234567.
 
 **Sample usage:**

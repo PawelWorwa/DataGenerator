@@ -14,11 +14,11 @@ final public class Utils {
 		return numbers;
 	}
 
-	public static int calculateSum(String numbers, String wages) {
+	public static int calculateSum(String numbers, String weights) {
 		int sum = 0;
 
 		for (int i = 0; i < numbers.length(); ++i) {
-			int wage = Character.getNumericValue(wages.charAt(i));
+			int wage = Character.getNumericValue(weights.charAt(i));
 			int number = Character.getNumericValue(numbers.charAt(i));
 			sum += wage * number;
 		}

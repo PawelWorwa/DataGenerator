@@ -8,7 +8,7 @@ import pl.modules.common.Utils;
 
 final public class NIP {
 	private List<Integer> officeCodes = new ArrayList<Integer>();
-	private static String wages = "657234567";
+	private static String weights = "657234567";
 
 	public NIP() {
 		prepareOfficeCodes();
@@ -20,7 +20,7 @@ final public class NIP {
 			String NIP = Integer.toString(officeCode); 
 			NIP += Utils.createRandomNumbers(6);
 			
-			int sum = Utils.calculateSum(NIP, wages);
+			int sum = Utils.calculateSum(NIP, weights);
 			int checksum = sum % 11;
 			NIP += Integer.toString(checksum);
 			

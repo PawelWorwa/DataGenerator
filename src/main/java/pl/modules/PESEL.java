@@ -6,7 +6,7 @@ import java.util.concurrent.ThreadLocalRandom;
 import pl.modules.common.Utils;
 
 final public class PESEL {
-	private static String wages = "1379137913";
+	private static String weights = "1379137913";
 
 	public String generateFemalePesel(int age) {
 		String PESEL = GenerateIncopletePesel( age);
@@ -127,7 +127,7 @@ final public class PESEL {
 	}
 
 	private String calculateChecksum(String PESEL) {
-		int sum = Utils.calculateSum(PESEL, wages);
+		int sum = Utils.calculateSum(PESEL, weights);
 		sum %= 10;
 		sum = 10 - sum;
 		sum %= 10;

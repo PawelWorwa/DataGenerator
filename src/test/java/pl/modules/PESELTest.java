@@ -8,7 +8,7 @@ import org.junit.Test;
 import pl.modules.common.Utils;
 
 public class PESELTest {
-	private static String wages = "1379137913";
+	private static String weights = "1379137913";
 
 	@Test
 	public void testVeryOldLadyPesel() {
@@ -36,7 +36,7 @@ public class PESELTest {
 	}
 
 	private String calculateChecksum(String peselWithoutChesksum) {
-		int sum = Utils.calculateSum(peselWithoutChesksum, wages);
+		int sum = Utils.calculateSum(peselWithoutChesksum, weights);
 		sum %= 10;
 		sum = 10 - sum;
 		sum %= 10;

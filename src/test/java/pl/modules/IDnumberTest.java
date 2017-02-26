@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class IDnumberTest {
-	private static String wages = "731173173"; // additional digit is for checksum
+	private static String weights = "731173173"; // additional digit is for checksum
 	private static String idNumber = "";
 	
 	@Test
@@ -86,7 +86,7 @@ public class IDnumberTest {
 	private int calculatePrefixSum() {
 		int sum = 0;
 		for (int i = 0; i < 3; ++i) {
-			int wage = Character.getNumericValue(wages.charAt(i));
+			int wage = Character.getNumericValue(weights.charAt(i));
 			char letter = idNumber.charAt(i);
 			int index = getLetterIndex(letter);
 			sum += wage * (index + 10);
@@ -111,7 +111,7 @@ public class IDnumberTest {
 	private int calculateSurfixSum() {
 		int sum = 0;
 		for (int i = 4; i < 9; ++i) {
-			int wage = Character.getNumericValue(wages.charAt(i));
+			int wage = Character.getNumericValue(weights.charAt(i));
 			int number = Character.getNumericValue(idNumber.charAt(i));
 			sum += wage * number;
 		}

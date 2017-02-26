@@ -6,8 +6,8 @@ import org.junit.Test;
 import pl.modules.REGON;
 
 public class REGONTest {
-	private static String shortWages = "89234567";
-	private static String longWages = "2485097361248";
+	private static String shortWeights = "89234567";
+	private static String longWeights = "2485097361248";
 	private static String generatedREGON = null;
 
 	@Test
@@ -16,7 +16,7 @@ public class REGONTest {
 		generatedREGON = regon.generateShortREGON();
 		boolean isValid = false;
 
-		if (generatedREGON.length() == 9 && isCheckSumValid(shortWages)) {
+		if (generatedREGON.length() == 9 && isCheckSumValid(shortWeights)) {
 			isValid = true;
 		}
 
@@ -29,7 +29,7 @@ public class REGONTest {
 		generatedREGON = regon.generateLongREGON();
 		boolean isValid = false;
 
-		if (generatedREGON.length() == 14 && isCheckSumValid(longWages)) {
+		if (generatedREGON.length() == 14 && isCheckSumValid(longWeights)) {
 			isValid = true;
 		}
 

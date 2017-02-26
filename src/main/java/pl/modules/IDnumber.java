@@ -6,7 +6,7 @@ import pl.modules.common.Utils;
 
 public final class IDnumber {
 	private static String letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	private static String wages = "73173173";
+	private static String weights = "73173173";
 
 	public String generateIDnumber() {
 		String IdPrefix = generatePrefix();
@@ -25,7 +25,7 @@ public final class IDnumber {
 	private int calculatePrefixSum(String IdPrefix) {
 		int sum = 0;
 		for (int i = 0; i < 3; ++i) {
-			int wage = Character.getNumericValue(wages.charAt(i));
+			int wage = Character.getNumericValue(weights.charAt(i));
 			char letter = IdPrefix.charAt(i);
 			int index = getLetterIndex(letter);
 			sum += wage * (index + 10);
@@ -49,7 +49,7 @@ public final class IDnumber {
 	private int calculateSurfixSum(String IdSurfix) {
 		int sum = 0;
 		for (int i = 0; i < 5; ++i) {
-			int wage = Character.getNumericValue(wages.charAt(i + 3));
+			int wage = Character.getNumericValue(weights.charAt(i + 3));
 			int number = Character.getNumericValue(IdSurfix.charAt(i));
 			sum += wage * number;
 		}

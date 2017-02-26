@@ -6,7 +6,7 @@ import org.junit.Test;
 import pl.modules.NIP;
 
 public class NIPTest {
-	private static String wages = "657234567";
+	private static String weights = "657234567";
 	private static String generatedNIP = null;
 
 	@Test
@@ -27,7 +27,7 @@ public class NIPTest {
 		int sum = 0;
 		
 		for (int i = 0; i < generatedNIP.length() - 1; ++i) {
-			int wage = Character.getNumericValue(wages.charAt(i));
+			int wage = Character.getNumericValue(weights.charAt(i));
 			int number = Character.getNumericValue(generatedNIP.charAt(i));
 			sum += wage * number;
 		}
