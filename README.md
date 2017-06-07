@@ -14,10 +14,44 @@ To My wonder, I was unable to find and library that could be included within Sel
 ** Limitations **
 All algorithms and names used within this library are designed for Poland.
 
-## Installation
-DataGenerator library can be obtained in two ways, either by downloading jar file from this site and:
+## Installation - easy way
+Easiest way of installation for DataGenerator is by using **jitpack.io** (https://jitpack.io/) library, which enables to add **GitHub** project as a dependency inside maven’s (or gradle or whatever) configuration file.
+
+Simple (and minimal) configuration for maven **pom.xml** file could look as below:
+```
+<modelVersion>4.0.0</modelVersion>
+	<groupId>SampleScript</groupId>
+	<artifactId>SampleScript</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name> SampleScript </name>
+	<url>http://maven.apache.org</url>
+	
+	<repositories>
+		<repository>
+		<id>jitpack.io</id>
+	    	<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<dependency>
+		    <groupId>com.github.PawelWorwa</groupId>
+		    <artifactId>DataGenerator</artifactId>
+		    <version>1.0.0</version>
+		</dependency>
+	</dependencies>
+</project>
+```
+
+And that’s it.
+
+
+## Installation - long way
+If it’s not possible to get DataGenerator library through **jitpack.io** (whatever the reason), DataGenerator library still can be obtained in two ways, either by:
 * including it inside a each project, where data generation is necessary;
-* installing in local **maven** repository and using through `pom.xml` file.
+* installing in local **maven** repository and using through **pom.xml** file.
 
 First approach is much straightforward and IDE dependant. Second one thought, needs a little bit more explanation.
 
@@ -30,7 +64,7 @@ mvn install:install-file -Dfile=**<JAR_FILE_PATH>** -DgroupId=pl.data.generator 
 For `-Dversion` parameter provide required version.
 
 **Maven dependency**
-Inside project `pom.xml` file, add below dependency:
+Inside project **pom.xml** file, add below dependency:
 ```
 <dependency>
 	<groupId>pl.data.generator</groupId>
