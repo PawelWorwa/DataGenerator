@@ -11,8 +11,7 @@ To My wonder, I was unable to find and library that could be included within Sel
 * generation of REGON, both short (nine digits) and long (twelve digits) one;
 * generation of commonly used in Poland male and female names with surnames.
 
-** Limitations **
-All algorithms and names used within this library are designed for Poland.
+**Limitations:** All algorithms and names used within this library are designed for Poland.
 
 ## Installation - easy way
 Easiest way of installation for DataGenerator is by using **jitpack.io** (https://jitpack.io/) library, which enables to add **GitHub** project as a dependency inside maven’s (or gradle or whatever) configuration file.
@@ -175,7 +174,7 @@ Least but not last comes NIP (tax identification) number accessed by `DataGenera
 Idea is the same as in REGON, each digit is being multiplied by weights and sum up. After this, rest from modulo 11 for sum result operation is treated as checksum and last NIP digit. If result equals zero, NIP is treated as invalid and regenerated. 
 
 **Weights used:**
-* 657234567.
+* 657234567
 
 **Sample usage:**
 ```
