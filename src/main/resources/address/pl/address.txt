@@ -1,0 +1,1000 @@
+State;City;Tel. area code;Street;Postal Code
+Dolnośląskie;Bogatynia;75;ul. Biskupia;59-916
+Dolnośląskie;Karpacz;75;ul. Ogrodowa;58-540
+Dolnośląskie;Karpacz;75;ul. Okrzei;58-540
+Dolnośląskie;Karpacz;75;ul. Długa;58-540
+Dolnośląskie;Kowary;75;ul. Prusa;58-530
+Dolnośląskie;Kowary;75;ul. Mickiewicza;58-530
+Dolnośląskie;Legnica;76;ul. Wały Pólnocne;59-200
+Dolnośląskie;Legnica;76;ul. Kryniczna;59-200
+Dolnośląskie;Legnica;76;ul. Niklowa;59-200
+Dolnośląskie;Legnica;76;ul. Wały Królowej Jadwigi;59-200
+Dolnośląskie;Legnica;76;ul. Dębowa;59-200
+Dolnośląskie;Legnica;76;ul. Koralowa;59-200
+Dolnośląskie;Legnica;76;ul. Kornela Makuszyńskiego;59-200
+Dolnośląskie;Lubawka;75;ul. Skargi;58-420
+Dolnośląskie;Lubawka;75;ul. Aleja Wojska Polskiego;58-420
+Dolnośląskie;Lubawka;75;ul. Sienkiewicza;58-420
+Dolnośląskie;Lubawka;75;ul. Szeroka;58-420
+Dolnośląskie;Lubomierz;18;ul. Sportowa;34-736
+Dolnośląskie;Lubomierz;18;ul. Ptasia;34-736
+Dolnośląskie;Milicz;71;ul. Aleja ZHP;56-300
+Dolnośląskie;Milicz;71;ul. Stawczyk;56-300
+Dolnośląskie;Milicz;71;ul. Magazynowa;56-300
+Dolnośląskie;Milicz;71;ul. Wałowa;56-300
+Dolnośląskie;Milicz;71;ul. Czereśniowa;56-300
+Dolnośląskie;Milicz;71;ul. Jaworowa;56-300
+Dolnośląskie;Milicz;71;ul. Spółdzielcza;56-300
+Dolnośląskie;Mirsk;75;ul. Chopina;59-630
+Dolnośląskie;Mirsk;75;ul. Gruntowa;59-630
+Dolnośląskie;Mirsk;75;ul. Zdrojowa;59-630
+Dolnośląskie;Nowogrodziec;75;ul. Tadeusza Kościuszki;59-730
+Dolnośląskie;Nowogrodziec;75;ul. 22 Lipca;59-730
+Dolnośląskie;Nowogrodziec;75;ul. Mieczysławy Ćwiklińskiej;59-730
+Dolnośląskie;Nowogrodziec;75;ul. Sienkiewicza;59-730
+Dolnośląskie;Piechowice;75;ul. Nowotki;58-573
+Dolnośląskie;Piechowice;75;ul. Konopnickiej;58-573
+Dolnośląskie;Piechowice;75;ul. Słowackiego;58-573
+Dolnośląskie;Piechowice;75;ul. Zawadzkiego;58-573
+Dolnośląskie;Piechowice;75;ul. Pakoszowska;58-573
+Dolnośląskie;Piechowice;75;ul. Norwida;58-573
+Dolnośląskie;Piechowice;75;ul. Widok;58-573
+Dolnośląskie;Piechowice;75;ul. Sielska;58-573
+Dolnośląskie;Pieszyce;74;ul. Lasocin;58-250
+Dolnośląskie;Polkowice;76;ul. Działkowa;59-100
+Dolnośląskie;Polkowice;76;ul. Słonecznikowa;59-100
+Dolnośląskie;Polkowice;76;ul. Walki Młodych;59-100
+Dolnośląskie;Polkowice;76;ul. Ignacego Krasickiego;59-100
+Dolnośląskie;Polkowice;76;ul. Leśna;59-100
+Dolnośląskie;Polkowice;76;ul. Strefowa;59-100
+Dolnośląskie;Polkowice;76;ul. Hugona Kołłątaja;59-100
+Dolnośląskie;Strzegom;74;ul. Gronowska;58-150
+Dolnośląskie;Strzegom;74;ul. Lipowa;58-150
+Dolnośląskie;Strzegom;74;ul. Marii Konopnickiej;58-150
+Dolnośląskie;Strzegom;74;ul. Ogrodowa;58-150
+Dolnośląskie;Strzegom;74;ul. Gen. Henryka Dembińskiego;58-150
+Dolnośląskie;Strzegom;74;ul. Klonowa;58-150
+Dolnośląskie;Strzegom;74;ul. Czarna;58-150
+Dolnośląskie;Strzegom;74;ul. Miodowa;58-150
+Dolnośląskie;Strzegom;74;ul. Leśna;58-150
+Dolnośląskie;Strzegom;74;ul. Strzelnicza;58-150
+Dolnośląskie;Strzelin;71;ul. Kolejowa;57-100
+Dolnośląskie;Szczytna;74;ul. Bobrownicka;57-330
+Dolnośląskie;Szczytna;74;ul. Robotnicza;57-330
+Dolnośląskie;Trzebnica;71;ul. Prusicka;55-100
+Dolnośląskie;Zgorzelec;75;ul. Dzika;59-900
+Dolnośląskie;Zgorzelec;75;ul. Droga Wojewódzka 355;59-900
+Dolnośląskie;Zgorzelec;75;ul. Droga Wojewódzka 351;59-900
+Dolnośląskie;Zgorzelec;75;ul. Orzeszkowej;59-900
+Dolnośląskie;Zgorzelec;75;ul. Słowiańska;59-900
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Buszkowska;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Gęsia;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Kogucia;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. 11 Dywizjonu Artylerii Konnej;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Biedronkowa;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Marii Konopnickiej;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Poziomkowa;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Prądocińska;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Profesor Tadeusza Kotarbińskiego;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Rakowa;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Widok;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Zachodnia;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Błękitna;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Ciasna;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Częstochowska;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Kaszubska;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Litewska;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Oleśnicka;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Szara;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Szczęśliwa;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Flisacka;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Grobla;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Kapeluszników;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Księdza Stanisława Konarskiego;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Pusta;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Spacerowa;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Stanisława Tomaszewskiego;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Toruńska;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Wągrowiecka;85-001
+Kujawsko-Pomorskie;Bydgoszcz;52;ul. Żwirki i Wigury;85-001
+Kujawsko-Pomorskie;Ciechocinek;54;ul. Władysława Warneńczyka;87-720
+Kujawsko-Pomorskie;Ciechocinek;54;ul. Królowej Jadwigi;87-720
+Kujawsko-Pomorskie;Ciechocinek;54;ul. Leśna;87-720
+Kujawsko-Pomorskie;Ciechocinek;54;ul. Władysława Łokietka;87-720
+Kujawsko-Pomorskie;Ciechocinek;54;ul. Kazimierza Wielkiego;87-720
+Kujawsko-Pomorskie;Kowal;54;ul. Piastowska;87-820
+Kujawsko-Pomorskie;Kowal;54;ul. Marii Konopnickiej;87-820
+Kujawsko-Pomorskie;Kruszwica;52;ul. Nadgoplańska;88-150
+Kujawsko-Pomorskie;Rypin;54;ul. Mławska;87-500
+Kujawsko-Pomorskie;Tuchola;52;ul. Dąbrowskiej;89-500
+Kujawsko-Pomorskie;Tuchola;52;ul. Kołłątaja;89-500
+Kujawsko-Pomorskie;Tuchola;52;ul. Jana III Sobieskiego;89-500
+Kujawsko-Pomorskie;Tuchola;52;ul. Leśna;89-500
+Kujawsko-Pomorskie;Tuchola;52;ul. Słowackiego;89-500
+Kujawsko-Pomorskie;Tuchola;52;ul. Orzeszkowej;89-500
+Lubelskie;Piaski;65;ul. Piaskowa;63-820
+Lubuskie;Dobiegniew;95;ul. 1 Maja;66-520
+Lubuskie;Drezdenko;95;ul. Okrężna;66-530
+Lubuskie;Drezdenko;95;ul. Łączna;66-530
+Lubuskie;Drezdenko;95;ul. Pomorska;66-530
+Lubuskie;Drezdenko;95;ul. Dworcowa;66-530
+Lubuskie;Drezdenko;95;ul. Grunwaldzka;66-530
+Lubuskie;Drezdenko;95;ul. Kwiatowa;66-530
+Lubuskie;Drezdenko;95;ul. Piłsudskiego;66-530
+Lubuskie;Drezdenko;95;ul. plac Kościelny;66-530
+Lubuskie;Drezdenko;95;ul. Reja;66-530
+Lubuskie;Drezdenko;95;ul. 29 Stycznia;66-530
+Lubuskie;Kargowa;68;ul. Stroma;66-120
+Lubuskie;Kargowa;68;ul. Przemysłowa;66-120
+Lubuskie;Kargowa;68;ul. Modrzewiowa;66-120
+Lubuskie;Kostrzyn;61;ul. Czerwonego Krzyża;62-025
+Lubuskie;Kostrzyn;61;ul. Al. Sokoła;62-025
+Lubuskie;Kostrzyn;61;ul. Krajowa;62-025
+Lubuskie;Kostrzyn;61;ul. Stefana Batorego;62-025
+Lubuskie;Kostrzyn;61;ul. Kopernika;62-025
+Lubuskie;Kostrzyn;61;ul. Estkowskiego;62-025
+Lubuskie;Kostrzyn;61;ul. Kosynierów;62-025
+Lubuskie;Kostrzyn;61;ul. Bolesława Chrobrego;62-025
+Lubuskie;Kostrzyn;61;ul. Ignacewo;62-025
+Lubuskie;Lubniewice;95;ul. Osadników Wojskowych;69-210
+Lubuskie;Lubniewice;95;ul. Kasztanowa;69-210
+Lubuskie;Torzym;68;ul. Świerkowa;66-235
+Lubuskie;Torzym;68;ul. Kwiatowa;66-235
+Lubuskie;Torzym;68;ul. Biernackiego;66-235
+Lubuskie;Torzym;68;ul. Prusa;66-235
+Lubuskie;Torzym;68;ul. Ogrodowa;66-235
+Lubuskie;Wschowa;65;ul. Kościelna;67-400
+Lubuskie;Wschowa;65;ul. Polna;67-400
+Lubuskie;Wschowa;65;ul. Sosnowa;67-400
+Lubuskie;Wschowa;65;ul. Prusa;67-400
+Lubuskie;Wschowa;65;ul. Słoneczna;67-400
+Lubuskie;Wschowa;65;ul. Kuśnierska;67-400
+Lubuskie;Wschowa;65;ul. Pocztowa;67-400
+Lubuskie;Wschowa;65;ul. Garncarska;67-400
+Lubuskie;Wschowa;65;ul. Ogińskiego;67-400
+Lubuskie;Wschowa;65;ul. osiedle Jagiellonów;67-400
+Lubuskie;Wschowa;65;ul. Rzeźnicka;67-400
+Lubuskie;Wschowa;65;ul. Kamienna;67-400
+Łódzkie;Brzeziny;46;ul. Słowackiego;39-111
+Łódzkie;Brzeziny;46;ul. Potockiego;39-111
+Łódzkie;Brzeziny;46;ul. Malownicza;39-111
+Łódzkie;Brzeziny;46;ul. Moniuszki;39-111
+Łódzkie;Brzeziny;46;ul. Słoneczna;39-111
+Łódzkie;Brzeziny;46;ul. Janusza Korczaka;39-111
+Łódzkie;Brzeziny;46;ul. Południowa;39-111
+Łódzkie;Brzeziny;46;ul. Konwaliowa;39-111
+Łódzkie;Brzeziny;46;ul. Kosmonautów;39-111
+Łódzkie;Kutno;24;ul. Grunwaldzka;99-300
+Łódzkie;Pabianice;42;ul. Orzechowa;95-200
+Łódzkie;Pabianice;42;ul. Popławska;95-200
+Łódzkie;Pabianice;42;ul. Trębacka;95-200
+Łódzkie;Pabianice;42;ul. Traugutta;95-200
+Łódzkie;Pabianice;42;ul. Jana Pawła II;95-200
+Łódzkie;Pabianice;42;ul. Stara;95-200
+Łódzkie;Pabianice;42;ul. Willowa;95-200
+Łódzkie;Pabianice;42;ul. Dobra;95-200
+Łódzkie;Pabianice;42;ul. Kasztanowa;95-200
+Łódzkie;Pabianice;42;ul. Łaska;95-200
+Łódzkie;Pabianice;42;ul. Poniatowskiego;95-200
+Łódzkie;Pabianice;42;ul. Wierzbowa;95-200
+Łódzkie;Pabianice;42;ul. Żabia;95-200
+Łódzkie;Pabianice;42;ul. Mokra;95-200
+Łódzkie;Pabianice;42;ul. Pomorska;95-200
+Łódzkie;Pabianice;42;ul. Radosna;95-200
+Łódzkie;Pabianice;42;ul. Zamkowa;95-200
+Łódzkie;Pabianice;42;ul. Jodłowa;95-200
+Łódzkie;Sieradz;43;ul. Braterstwa Broni;98-200
+Łódzkie;Sieradz;43;ul. Leszka Czarnego;98-200
+Łódzkie;Sieradz;43;ul. Wspólna;98-200
+Łódzkie;Sieradz;43;ul. Mokra;98-200
+Łódzkie;Sieradz;43;ul. Składowa;98-200
+Łódzkie;Sieradz;43;ul. Droga Brzezińska;98-200
+Łódzkie;Sieradz;43;ul. Radziminowska;98-200
+Łódzkie;Sieradz;43;ul. Rynek Praski;98-200
+Łódzkie;Sieradz;43;ul. aleja Pokoju;98-200
+Łódzkie;Sieradz;43;ul. Roweckiego;98-200
+Łódzkie;Sieradz;43;ul. Żwirki i Wigury;98-200
+Łódzkie;Sieradz;43;ul. Ketlinga;98-200
+Łódzkie;Sieradz;43;ul. Daszyńskiego;98-200
+Łódzkie;Sieradz;43;ul. Kopernika;98-200
+Łódzkie;Sieradz;43;ul. Leśna;98-200
+Łódzkie;Skierniewice;46;ul. Henryka Sienkiewicza;96-100
+Łódzkie;Warta;43;ul. Terenowa;98-290
+Łódzkie;Zgierz;42;ul. Chemików;95-100
+Małopolskie;Biecz;13;ul. Polna;38-340
+Małopolskie;Biecz;13;ul. Wielopolskich;38-340
+Małopolskie;Biecz;13;ul. Krzemińskiego;38-340
+Małopolskie;Bochnia;14;ul. Kaima;32-700
+Małopolskie;Bochnia;14;ul. Łychów;32-700
+Małopolskie;Bochnia;14;ul. Dębnik;32-700
+Małopolskie;Bochnia;14;ul. Konstytucji 3 Maja;32-700
+Małopolskie;Bochnia;14;ul. Maissa;32-700
+Małopolskie;Bochnia;14;ul. Matejki;32-700
+Małopolskie;Bochnia;14;ul. Zaułek Św. Mikołaja;32-700
+Małopolskie;Bochnia;14;ul. Bujaka;32-700
+Małopolskie;Bochnia;14;ul. Kowalska;32-700
+Małopolskie;Bochnia;14;ul. Strzelecka;32-700
+Małopolskie;Bochnia;14;ul. Dominikańska;32-700
+Małopolskie;Bochnia;14;ul. osiedle Podmagura;32-700
+Małopolskie;Bochnia;14;ul. Różana;32-700
+Małopolskie;Bochnia;14;ul. Floris;32-700
+Małopolskie;Bochnia;14;ul. Kamyk;32-700
+Małopolskie;Bochnia;14;ul. Krakowska;32-700
+Małopolskie;Bochnia;14;ul. Leśna;32-700
+Małopolskie;Bochnia;14;ul. Kiernika;32-700
+Małopolskie;Bochnia;14;ul. Parkowa;32-700
+Małopolskie;Bochnia;14;ul. Za Szybem;32-700
+Małopolskie;Brzesko;14;ul. Za Lasem;32-800
+Małopolskie;Brzesko;14;ul. Zamknięta;32-800
+Małopolskie;Brzesko;14;ul. Kręta;32-800
+Małopolskie;Brzesko;14;ul. Królowej Jadwigi;32-800
+Małopolskie;Brzesko;14;ul. świętego Brata Alberta;32-800
+Małopolskie;Brzesko;14;ul. Artura Grottgera;32-800
+Małopolskie;Brzesko;14;ul. Odrodzenia;32-800
+Małopolskie;Brzesko;14;ul. Zakątek;32-800
+Małopolskie;Gorlice;18;ul. Lenartowiczów;38-300
+Małopolskie;Gorlice;18;ul. Plac Targowy;38-300
+Małopolskie;Gorlice;18;ul. Pocieszka;38-300
+Małopolskie;Gorlice;18;ul. Brzozowa;38-300
+Małopolskie;Gorlice;18;ul. Letnia;38-300
+Małopolskie;Gorlice;18;ul. Zagórzańska;38-300
+Małopolskie;Gorlice;18;ul. Parkowa;38-300
+Małopolskie;Gorlice;18;ul. Józefa Piłsudskiego;38-300
+Małopolskie;Gorlice;18;ul. Krótka;38-300
+Małopolskie;Gorlice;18;ul. Zakole;38-300
+Małopolskie;Limanowa;18;ul. Słoneczna;34-600
+Małopolskie;Limanowa;18;ul. Akacjowa;34-600
+Małopolskie;Limanowa;18;ul. Ludwika Kubali;34-600
+Małopolskie;Limanowa;18;ul. Malinowa;34-600
+Małopolskie;Limanowa;18;ul. Boczna;34-600
+Małopolskie;Limanowa;18;ul. Krakowska;34-600
+Małopolskie;Limanowa;18;ul. Potok;34-600
+Małopolskie;Muszyna;18;ul. Nowa;33-370
+Małopolskie;Olkusz;32;ul. Płonowskiej;32-300
+Małopolskie;Olkusz;32;ul. Zamkowa;32-300
+Małopolskie;Olkusz;32;ul. Parcówka;32-300
+Małopolskie;Olkusz;32;ul. Na Skarpie;32-300
+Małopolskie;Olkusz;32;ul. aleja 1000-lecia;32-300
+Małopolskie;Olkusz;32;ul. Piłsudskiego;32-300
+Małopolskie;Olkusz;32;ul. Parkowa;32-300
+Małopolskie;Olkusz;32;ul. Legionów Polskich;32-300
+Małopolskie;Proszowice;12;ul. Kolejowa;32-100
+Małopolskie;Proszowice;12;ul. Nowa;32-100
+Małopolskie;Szczawnica;18;ul. aleja 1-go Maja;34-460
+Małopolskie;Szczawnica;18;ul. Maćka zza Ławy;34-460
+Małopolskie;Szczawnica;18;ul. aleja Parkowa;34-460
+Małopolskie;Trzebinia;32;ul. Cicha;32-530
+Małopolskie;Trzebinia;32;ul. Lipowa Boczna;32-530
+Małopolskie;Trzebinia;32;ul. Sosnowa;32-530
+Małopolskie;Trzebinia;32;ul. Harcerska;32-530
+Małopolskie;Trzebinia;32;ul. Parkowa;32-530
+Małopolskie;Trzebinia;32;ul. Dębowa;32-530
+Małopolskie;Trzebinia;32;ul. Józefa Piłsudskiego;32-530
+Małopolskie;Trzebinia;32;ul. Staszica;32-530
+Małopolskie;Trzebinia;32;ul. Zwycięstwa;32-530
+Małopolskie;Trzebinia;32;ul. Szkolna;32-530
+Małopolskie;Trzebinia;32;ul. Wspólna;32-530
+Małopolskie;Trzebinia;32;ul. Łąkowa;32-530
+Małopolskie;Trzebinia;32;ul. Dąbrowskiego;32-530
+Małopolskie;Trzebinia;32;ul. Rybna;32-530
+Małopolskie;Wadowice;33;ul. Kościelna;34-100
+Małopolskie;Wadowice;33;ul. Lipowa;34-100
+Małopolskie;Wadowice;33;ul. Rzyczki;34-100
+Małopolskie;Wadowice;33;ul. Sosnowa;34-100
+Małopolskie;Wadowice;33;ul. Cicha;34-100
+Małopolskie;Wadowice;33;ul. Wojska Polskiego;34-100
+Małopolskie;Wieliczka;12;ul. Jodłowa;32-020
+Małopolskie;Wieliczka;12;ul. Tadeusza Korpala;32-020
+Małopolskie;Wieliczka;12;ul. Adama Asnyka;32-020
+Małopolskie;Wieliczka;12;ul. Sobótki;32-020
+Małopolskie;Wieliczka;12;ul. Doktora Tomasza Żywca;32-020
+Małopolskie;Wieliczka;12;ul. Juliusza Słowackiego;32-020
+Małopolskie;Wieliczka;12;ul. Kazimierza Brodzińskiego;32-020
+Małopolskie;Zakopane;18;ul. Długa;34-500
+Małopolskie;Zakopane;18;ul. Heleny Modrzejewskiej;34-500
+Małopolskie;Zakopane;18;ul. Kiełbasówka;34-500
+Małopolskie;Zakopane;18;ul. Szkolna;34-500
+Małopolskie;Zakopane;18;ul. osiedle Nowe;34-500
+Małopolskie;Zakopane;18;ul. Stanisława Staszica;34-500
+Małopolskie;Zakopane;18;ul. Wierchowa;34-500
+Małopolskie;Zakopane;18;ul. Zwijacze;34-500
+Małopolskie;Zakopane;18;ul. Mariusza Zaruskiego;34-500
+Małopolskie;Zakopane;18;ul. Pardałówka;34-500
+Małopolskie;Zakopane;18;ul. Walowa Góra;34-500
+Małopolskie;Zakopane;18;ul. Witolda i Zofii Paryskich;34-500
+Małopolskie;Zakopane;18;ul. Spyrkówka;34-500
+Małopolskie;Zakopane;18;ul. Droga na Buńdówki;34-500
+Małopolskie;Zakopane;18;ul. Guty;34-500
+Małopolskie;Zakopane;18;ul. Sobczakówka;34-500
+Małopolskie;Zakopane;18;ul. Strzelców Podhalańskich;34-500
+Mazowieckie;Chorzele;29;ul. Wincentego Witosa;06-330
+Mazowieckie;Garwolin;25;ul. Sosnowa;08-400
+Mazowieckie;Gostynin;24;ul. Henryka Sienkiewicza;09-500
+Mazowieckie;Gostynin;24;ul. Sąsiedzka;09-500
+Mazowieckie;Gostynin;24;ul. Kardynała Stefana Wyszyńskiego;09-500
+Mazowieckie;Gostynin;24;ul. Jaśminowa;09-500
+Mazowieckie;Gostynin;24;ul. Wierzbowa;09-500
+Mazowieckie;Gostynin;24;ul. Kościelna;09-500
+Mazowieckie;Gostynin;24;ul. Langenfeld;09-500
+Mazowieckie;Gostynin;24;ul. Lipowa;09-500
+Mazowieckie;Nasielsk;23;ul. Ulica Warszawska;05-190
+Mazowieckie;Nasielsk;23;ul. Szlak niebieski;05-190
+Mazowieckie;Otwock;22;ul. Mysia;05-400
+Mazowieckie;Otwock;22;ul. Bagnista;05-400
+Mazowieckie;Otwock;22;ul. Braniewska;05-400
+Mazowieckie;Otwock;22;ul. Jaśminowa;05-400
+Mazowieckie;Otwock;22;ul. Dragonów;05-400
+Mazowieckie;Otwock;22;ul. Grzybowa;05-400
+Mazowieckie;Otwock;22;ul. Jana Kazimierza;05-400
+Mazowieckie;Otwock;22;ul. Juliana Ursyna Niemcewicza;05-400
+Mazowieckie;Otwock;22;ul. Wincentego Pola;05-400
+Mazowieckie;Otwock;22;ul. Malwy;05-400
+Mazowieckie;Otwock;22;ul. Rondo Sybiraków;05-400
+Mazowieckie;Otwock;22;ul. Sportowa;05-400
+Mazowieckie;Otwock;22;ul. Świerkowa;05-400
+Mazowieckie;Otwock;22;ul. Wronia;05-400
+Mazowieckie;Otwock;22;ul. Fryderyka Chopina;05-400
+Mazowieckie;Otwock;22;ul. Stawowa;05-400
+Mazowieckie;Otwock;22;ul. Władysława Czaplickiego;05-400
+Mazowieckie;Otwock;22;ul. Władysława Łokietka;05-400
+Mazowieckie;Otwock;22;ul. Bajkowa;05-400
+Mazowieckie;Otwock;22;ul. Ogrodnicza;05-400
+Mazowieckie;Otwock;22;ul. Przechodnia;05-400
+Mazowieckie;Otwock;22;ul. Wojskiego;05-400
+Mazowieckie;Otwock;22;ul. Olszowa;05-400
+Mazowieckie;Otwock;22;ul. Wierchowa;05-400
+Mazowieckie;Piaseczno;22;ul. Brylantowa;05-500
+Mazowieckie;Piaseczno;22;ul. Jesionowa;05-500
+Mazowieckie;Piaseczno;22;ul. Księdza Marka;05-500
+Mazowieckie;Piaseczno;22;ul. Żeglińskiego;05-500
+Mazowieckie;Piaseczno;22;ul. Koszykowa;05-500
+Mazowieckie;Piaseczno;22;ul. Sąsiedzka;05-500
+Mazowieckie;Piaseczno;22;ul. Gustawa Morcinka;05-500
+Mazowieckie;Piaseczno;22;ul. Techniczna;05-500
+Mazowieckie;Piaseczno;22;ul. Wacława Kauna;05-500
+Mazowieckie;Piaseczno;22;ul. Agatowa;05-500
+Mazowieckie;Piaseczno;22;ul. Ignacego Jana Paderewskiego;05-500
+Mazowieckie;Piaseczno;22;ul. Laurowa;05-500
+Mazowieckie;Piaseczno;22;ul. Miła;05-500
+Mazowieckie;Piaseczno;22;ul. Wita Stwosza;05-500
+Mazowieckie;Piaseczno;22;ul. Graniczna;05-500
+Mazowieckie;Piaseczno;22;ul. Jana Kochanowskiego;05-500
+Mazowieckie;Piaseczno;22;ul. Słoneczna;05-500
+Mazowieckie;Piaseczno;22;ul. Główna;05-500
+Mazowieckie;Piaseczno;22;ul. Jana Brzechwy;05-500
+Mazowieckie;Serock;22;ul. Pod Lasem;05-140
+Mazowieckie;Serock;22;ul. Trakt Księcia Janusza;05-140
+Mazowieckie;Serock;22;ul. Rybaki;05-140
+Mazowieckie;Serock;22;ul. Tadeusza Kościuszki;05-140
+Mazowieckie;Serock;22;ul. Świerkowa;05-140
+Mazowieckie;Siedlce;25;ul. Jesionowa;08-100
+Mazowieckie;Siedlce;25;ul. Generała Orlicz-Dreszera;08-100
+Mazowieckie;Siedlce;25;ul. Leśna;08-100
+Mazowieckie;Siedlce;25;ul. Rybacka;08-100
+Mazowieckie;Siedlce;25;ul. Stanisława Moniuszki;08-100
+Mazowieckie;Siedlce;25;ul. Urwana;08-100
+Mazowieckie;Siedlce;25;ul. Antoniego Wintera;08-100
+Mazowieckie;Siedlce;25;ul. Generała Jana Skrzyneckiego;08-100
+Mazowieckie;Siedlce;25;ul. Jasna;08-100
+Mazowieckie;Siedlce;25;ul. Karpacka;08-100
+Mazowieckie;Siedlce;25;ul. Kasztanowa;08-100
+Mazowieckie;Siedlce;25;ul. Adolfa Ganiewskiego;08-100
+Mazowieckie;Siedlce;25;ul. Chmielna;08-100
+Mazowieckie;Siedlce;25;ul. Czesława Dylewicza;08-100
+Mazowieckie;Siedlce;25;ul. Berka Joselewicza;08-100
+Mazowieckie;Siedlce;25;ul. Łosicka;08-100
+Mazowieckie;Siedlce;25;ul. Sulimów;08-100
+Mazowieckie;Siedlce;25;ul. Tadeusza Zieleniewskiego;08-100
+Mazowieckie;Sierpc;24;ul. Bolesława Prusa;09-200
+Mazowieckie;Sierpc;24;ul. Świętego Wawrzyńca;09-200
+Mazowieckie;Sierpc;24;ul. Szpitalna;09-200
+Mazowieckie;Sierpc;24;ul. Władysława Reymonta;09-200
+Mazowieckie;Sierpc;24;ul. Podgórna;09-200
+Mazowieckie;Sochaczew;46;ul. 1 Maja;96-500
+Mazowieckie;Warszawa;22;ul. 11 Listopada;00-001
+Mazowieckie;Warszawa;22;ul. Jana Nowaka Jeziorańskiego;00-001
+Mazowieckie;Warszawa;22;ul. Targowa;00-001
+Mazowieckie;Warszawa;22;ul. Borówkowa;00-001
+Mazowieckie;Warszawa;22;ul. Chylońska;00-001
+Mazowieckie;Warszawa;22;ul. Floriańska;00-001
+Mazowieckie;Warszawa;22;ul. Gimnazjalna;00-001
+Mazowieckie;Warszawa;22;ul. Grawerska;00-001
+Mazowieckie;Warszawa;22;ul. Ignacego Krasickiego;00-001
+Mazowieckie;Warszawa;22;ul. Kapelanów Armii Krajowej;00-001
+Mazowieckie;Warszawa;22;ul. Kartonowa;00-001
+Mazowieckie;Warszawa;22;ul. Kazimierzowska;00-001
+Mazowieckie;Warszawa;22;ul. Kiejstuta;00-001
+Mazowieckie;Warszawa;22;ul. Łukasza Drewny;00-001
+Mazowieckie;Warszawa;22;ul. Marii Rodziewiczówny;00-001
+Mazowieckie;Warszawa;22;ul. Stefana Czarnieckiego;00-001
+Mazowieckie;Warszawa;22;ul. Towarowa;00-001
+Mazowieckie;Warszawa;22;ul. Wiśniowa;00-001
+Mazowieckie;Warszawa;22;ul. Aleksandra Kraushara;00-001
+Mazowieckie;Warszawa;22;ul. Bachusa;00-001
+Mazowieckie;Warszawa;22;ul. Batystowa;00-001
+Mazowieckie;Warszawa;22;ul. Darniowa;00-001
+Mazowieckie;Warszawa;22;ul. Działyńczyków;00-001
+Mazowieckie;Warszawa;22;ul. Arktyczna;00-001
+Mazowieckie;Warszawa;22;ul. Asfaltowa;00-001
+Mazowieckie;Warszawa;22;ul. Bełchatowska;00-001
+Mazowieckie;Warszawa;22;ul. Borowiecka;00-001
+Mazowieckie;Warszawa;22;ul. Bosmańska;00-001
+Mazowieckie;Warszawa;22;ul. Bronisława Dobrzańskiego;00-001
+Mazowieckie;Warszawa;22;ul. Czerwonych Maków;00-001
+Mazowieckie;Warszawa;22;ul. Fuksji;00-001
+Mazowieckie;Warszawa;22;ul. Gibraltarska;00-001
+Mazowieckie;Warszawa;22;ul. Goworowska;00-001
+Mazowieckie;Warszawa;22;ul. Irminy;00-001
+Mazowieckie;Warszawa;22;ul. Janiszowska;00-001
+Mazowieckie;Warszawa;22;ul. Kapitańska;00-001
+Mazowieckie;Warszawa;22;ul. Kościelna;00-001
+Mazowieckie;Warszawa;22;ul. Krzesiwa;00-001
+Mazowieckie;Warszawa;22;ul. Pułkownika Zoltána Baló;00-001
+Mazowieckie;Warszawa;22;ul. Sarenki;00-001
+Mazowieckie;Warszawa;22;ul. Stefana Hankiewicza;00-001
+Mazowieckie;Warszawa;22;ul. Tadeusza Gajcego;00-001
+Mazowieckie;Warszawa;22;ul. Aleja Wilanowska;00-001
+Mazowieckie;Warszawa;22;ul. Aleksandra Kostki-Napierskiego;00-001
+Mazowieckie;Warszawa;22;ul. Architektów;00-001
+Mazowieckie;Warszawa;22;ul. Canaletta;00-001
+Mazowieckie;Warszawa;22;ul. Dobka z Oleśnicy;00-001
+Mazowieckie;Warszawa;22;ul. Dunajecka;00-001
+Mazowieckie;Warszawa;22;ul. Marmurowa;00-001
+Mazowieckie;Warszawa;22;ul. Raduńska;00-001
+Mazowieckie;Warszawa;22;ul. Śmiała;00-001
+Mazowieckie;Warszawa;22;ul. Ułańska;00-001
+Mazowieckie;Warszawa;22;ul. Wolska;00-001
+Mazowieckie;Warszawa;22;ul. Anilinowa;00-001
+Mazowieckie;Warszawa;22;ul. Białowiejska;00-001
+Mazowieckie;Warszawa;22;ul. Brata Alberta;00-001
+Mazowieckie;Warszawa;22;ul. Ceramiczna;00-001
+Mazowieckie;Warszawa;22;ul. Cudne Manowce;00-001
+Mazowieckie;Warszawa;22;ul. Cyraneczki;00-001
+Mazowieckie;Warszawa;22;ul. Dychowska;00-001
+Mazowieckie;Warszawa;22;ul. Ebro;00-001
+Mazowieckie;Warszawa;22;ul. Jarosława Dąbrowskiego;00-001
+Mazowieckie;Warszawa;22;ul. Józefa Kraszewskiego;00-001
+Mazowieckie;Warszawa;22;ul. Kiermaszowa;00-001
+Mazowieckie;Warszawa;22;ul. Kinetyczna;00-001
+Mazowieckie;Warszawa;22;ul. Kolista;00-001
+Mazowieckie;Warszawa;22;ul. Korczyńska;00-001
+Mazowieckie;Warszawa;22;ul. Łukasza Gołębiowskiego;00-001
+Mazowieckie;Warszawa;22;ul. Nowoursynowska;00-001
+Mazowieckie;Warszawa;22;ul. Orla;00-001
+Mazowieckie;Warszawa;22;ul. Szczepana Grzeszczyka;00-001
+Mazowieckie;Warszawa;22;ul. Świderska;00-001
+Mazowieckie;Warszawa;22;ul. Będzińska;00-001
+Mazowieckie;Warszawa;22;ul. Bodzanty;00-001
+Mazowieckie;Warszawa;22;ul. Brodzik;00-001
+Mazowieckie;Warszawa;22;ul. Chełmżyńska;00-001
+Mazowieckie;Warszawa;22;ul. Dawidowska;00-001
+Mazowieckie;Warszawa;22;ul. Drapińska;00-001
+Mazowieckie;Warszawa;22;ul. Falenicka;00-001
+Mazowieckie;Warszawa;22;ul. Irysowa;00-001
+Mazowieckie;Warszawa;22;ul. Józefa Elsnera;00-001
+Mazowieckie;Warszawa;22;ul. Kołobrzeska;00-001
+Mazowieckie;Warszawa;22;ul. Konopna;00-001
+Mazowieckie;Warszawa;22;ul. Kostrzyńska;00-001
+Mazowieckie;Warszawa;22;ul. Krośniewicka;00-001
+Mazowieckie;Warszawa;22;ul. Ludwika Hirszfelda;00-001
+Mazowieckie;Warszawa;22;ul. Poznańska;00-001
+Mazowieckie;Warszawa;22;ul. Wacława Gąsiorowskiego;00-001
+Podkarpackie;Dukla;13;ul. Żwirki i Wigury;38-450
+Podkarpackie;Dukla;13;ul. Jana Pawła II;38-450
+Podkarpackie;Jedlicze;13;ul. Jesionowa;38-460
+Podkarpackie;Jedlicze;13;ul. Stawiarskich;38-460
+Podkarpackie;Krosno;13;ul. Augusta Lewakowskiego;38-400
+Podkarpackie;Krosno;13;ul. Mirandoli Pika;38-400
+Podkarpackie;Krosno;13;ul. Odrzykońska;38-400
+Podkarpackie;Krosno;13;ul. Zagórze;38-400
+Podkarpackie;Krosno;13;ul. Żeromskiego;38-400
+Podkarpackie;Krosno;13;ul. Żniwna;38-400
+Podkarpackie;Krosno;13;ul. Zjazdowa;38-400
+Podkarpackie;Krosno;13;ul. Prządki;38-400
+Podkarpackie;Krosno;13;ul. Wyzwolenia;38-400
+Podkarpackie;Krosno;13;ul. Ignacego Łukasiewicza;38-400
+Podkarpackie;Lesko;13;ul. Wolańska;38-600
+Podkarpackie;Lesko;13;ul. Śliżyńskiego;38-600
+Podkarpackie;Lesko;13;ul. Jesionowa;38-600
+Podkarpackie;Lesko;13;ul. Weremień;38-600
+Podkarpackie;Lesko;13;ul. Adama Mickiewicza;38-600
+Podkarpackie;Mielec;17;ul. Daleka;39-300
+Podkarpackie;Mielec;17;ul. Kardynała Stefana Wyszyńskiego;39-300
+Podkarpackie;Mielec;17;ul. Kornela Makuszyńskiego;39-300
+Podkarpackie;Mielec;17;ul. Kraszewskiego;39-300
+Podkarpackie;Mielec;17;ul. Świerkowa;39-300
+Podkarpackie;Mielec;17;ul. Dębowa;39-300
+Podkarpackie;Mielec;17;ul. Jasna;39-300
+Podkarpackie;Mielec;17;ul. Władysława Warneńczyka;39-300
+Podkarpackie;Mielec;17;ul. Dąbala;39-300
+Podkarpackie;Mielec;17;ul. Jadernych;39-300
+Podkarpackie;Mielec;17;ul. Juliusza Słowackiego;39-300
+Podkarpackie;Mielec;17;ul. Kordeckiego;39-300
+Podkarpackie;Mielec;17;ul. Władysława Jagiełły;39-300
+Podkarpackie;Mielec;17;ul. Kahla;39-300
+Podkarpackie;Mielec;17;ul. Raciborskiego;39-300
+Podkarpackie;Mielec;17;ul. Świętej Kingi;39-300
+Podkarpackie;Mielec;17;ul. Budowlana;39-300
+Podkarpackie;Mielec;17;ul. Stanisława Lema;39-300
+Podkarpackie;Mielec;17;ul. Wiktora;39-300
+Podkarpackie;Mielec;17;ul. Botaniczna;39-300
+Podkarpackie;Mielec;17;ul. Gardulskiego;39-300
+Podkarpackie;Mielec;17;ul. Podleśna;39-300
+Podkarpackie;Mielec;17;ul. Tańskiego;39-300
+Podkarpackie;Pilzno;14;ul. Grottgera;39-220
+Podkarpackie;Pilzno;14;ul. Lwowska;39-220
+Podkarpackie;Pilzno;14;ul. Armii Krajowej;39-220
+Podkarpackie;Przeworsk;16;ul. Mikołaja Kopernika;37-200
+Podkarpackie;Przeworsk;16;ul. Wąska;37-200
+Podkarpackie;Przeworsk;16;ul. Grochowa;37-200
+Podkarpackie;Przeworsk;16;ul. Ignacego Krasickiego;37-200
+Podkarpackie;Przeworsk;16;ul. Sportowa;37-200
+Podkarpackie;Radymno;16;ul. Jana III Sobieskiego;37-550
+Podkarpackie;Radymno;16;ul. Józefa Piłsudskiego;37-550
+Podkarpackie;Sanok;13;ul. Aleksandra Fredry;38-500
+Podkarpackie;Sanok;13;ul. Jezierskiego;38-500
+Podkarpackie;Sanok;13;ul. Kosynierów;38-500
+Podkarpackie;Sanok;13;ul. Macieja Kluski;38-500
+Podkarpackie;Sanok;13;ul. Rysia;38-500
+Podkarpackie;Sanok;13;ul. Stawiska;38-500
+Podkarpackie;Sanok;13;ul. Kalinowa;38-500
+Podkarpackie;Sanok;13;ul. Modrzewskiego;38-500
+Podkarpackie;Sanok;13;ul. Padlewskiego;38-500
+Podkarpackie;Sanok;13;ul. Posady Olchowskiej;38-500
+Podkarpackie;Sanok;13;ul. Jana Wiktora;38-500
+Podkarpackie;Sanok;13;ul. Błonie;38-500
+Podkarpackie;Sanok;13;ul. Wąska;38-500
+Podkarpackie;Sanok;13;ul. aleja Prugara-Ketlinga;38-500
+Podkarpackie;Sanok;13;ul. Cicha;38-500
+Podkarpackie;Sanok;13;ul. Jarosława Iwaszkiewicza;38-500
+Podkarpackie;Sanok;13;ul. Mokra;38-500
+Podkarpackie;Sanok;13;ul. 1000-lecia;38-500
+Podkarpackie;Sanok;13;ul. Słowicza;38-500
+Podkarpackie;Sanok;13;ul. Zacisze;38-500
+Podkarpackie;Sanok;13;ul. Adama Asnyka;38-500
+Podkarpackie;Sanok;13;ul. Płowiecka;38-500
+Podkarpackie;Sanok;13;ul. Zgodna;38-500
+Podkarpackie;Tyczyn;17;ul. Przesmyk;36-020
+Podkarpackie;Tyczyn;17;ul. Sienkiewicza;36-020
+Podlaskie;Ciechanowiec;86;ul. Wojska Polskiego;18-230
+Podlaskie;Ciechanowiec;86;ul. Polska;18-230
+Podlaskie;Grajewo;86;ul. Strażacka;19-200
+Podlaskie;Sejny;87;ul. Wojska Polskiego;16-500
+Podlaskie;Sejny;87;ul. Topolowa;16-500
+Podlaskie;Sejny;87;ul. Władysława Broniewskiego;16-500
+Podlaskie;Sejny;87;ul. Konarskiego;16-500
+Podlaskie;Siemiatycze;85;ul. Bohaterów Lenino;17-300
+Podlaskie;Siemiatycze;85;ul. Lewandowskiego;17-300
+Podlaskie;Siemiatycze;85;ul. Mokra;17-300
+Podlaskie;Siemiatycze;85;ul. 3 Maja;17-300
+Podlaskie;Siemiatycze;85;ul. Bohaterów Monte Cassino;17-300
+Podlaskie;Siemiatycze;85;ul. Szarych Szeregów;17-300
+Podlaskie;Siemiatycze;85;ul. Zielona;17-300
+Podlaskie;Siemiatycze;85;ul. Reja;17-300
+Podlaskie;Siemiatycze;85;ul. Słowicza;17-300
+Podlaskie;Siemiatycze;85;ul. Gilewskiego;17-300
+Podlaskie;Siemiatycze;85;ul. Jabłoniowa;17-300
+Podlaskie;Siemiatycze;85;ul. Kościelna;17-300
+Podlaskie;Siemiatycze;85;ul. Słoneczna;17-300
+Pomorskie;Chojnice;52;ul. Armii Ludowej;89-600
+Pomorskie;Chojnice;52;ul. Batalionów Chłopskich;89-600
+Pomorskie;Chojnice;52;ul. Kardynała Stefana Wyszyńskiego;89-600
+Pomorskie;Chojnice;52;ul. Stanisława Konarskiego;89-600
+Pomorskie;Chojnice;52;ul. Łużycka;89-600
+Pomorskie;Chojnice;52;ul. Podgórna;89-600
+Pomorskie;Chojnice;52;ul. Zygmunta Krasińskiego;89-600
+Pomorskie;Chojnice;52;ul. Jana Brzechwy;89-600
+Pomorskie;Chojnice;52;ul. Kazimierza Wielkiego;89-600
+Pomorskie;Chojnice;52;ul. Marii Rodziewiczówny;89-600
+Pomorskie;Chojnice;52;ul. Myśliboja;89-600
+Pomorskie;Chojnice;52;ul. Bolesława Prusa;89-600
+Pomorskie;Chojnice;52;ul. Igielska;89-600
+Pomorskie;Chojnice;52;ul. Czereśniowa;89-600
+Pomorskie;Chojnice;52;ul. Królowej Jadwigi;89-600
+Pomorskie;Chojnice;52;ul. Wielewska;89-600
+Pomorskie;Chojnice;52;ul. Armii Krajowej;89-600
+Pomorskie;Chojnice;52;ul. Daglezjowa;89-600
+Pomorskie;Chojnice;52;ul. Karsińska;89-600
+Pomorskie;Chojnice;52;ul. Porzeczkowa;89-600
+Pomorskie;Chojnice;52;ul. Zamieście;89-600
+Pomorskie;Gdynia;58;ul. Irydowa;81-000
+Pomorskie;Gdynia;58;ul. Jaśminowa;81-000
+Pomorskie;Gdynia;58;ul. Kaprów;81-000
+Pomorskie;Gdynia;58;ul. Malinowa;81-000
+Pomorskie;Gdynia;58;ul. Wacława Sieroszewskiego;81-000
+Pomorskie;Gdynia;58;ul. Żwirowa;81-000
+Pomorskie;Gdynia;58;ul. Czerwona;81-000
+Pomorskie;Gdynia;58;ul. Kapitańska;81-000
+Pomorskie;Gdynia;58;ul. Miła;81-000
+Pomorskie;Gdynia;58;ul. Perkoza;81-000
+Pomorskie;Gdynia;58;ul. Stanisława Wyspiańskiego;81-000
+Pomorskie;Gdynia;58;ul. Andrzeja Kmicica;81-000
+Pomorskie;Gdynia;58;ul. Bohaterów Getta Warszawskiego;81-000
+Pomorskie;Gdynia;58;ul. Chodkiewicza;81-000
+Pomorskie;Gdynia;58;ul. Gdyńska;81-000
+Pomorskie;Gdynia;58;ul. Harcerska;81-000
+Pomorskie;Gdynia;58;ul. Łosiowa;81-000
+Pomorskie;Gdynia;58;ul. Niemojewskiego;81-000
+Pomorskie;Gdynia;58;ul. Niska;81-000
+Pomorskie;Gdynia;58;ul. Pusta;81-000
+Pomorskie;Gdynia;58;ul. Redłowska;81-000
+Pomorskie;Gdynia;58;ul. Szwoleżerów;81-000
+Pomorskie;Gdynia;58;ul. Tymiankowa;81-000
+Pomorskie;Gdynia;58;ul. Atlasa;81-000
+Pomorskie;Gdynia;58;ul. Flisaków;81-000
+Pomorskie;Gdynia;58;ul. Grzybowa;81-000
+Pomorskie;Gdynia;58;ul. Lidzka;81-000
+Pomorskie;Gdynia;58;ul. Marzanny;81-000
+Pomorskie;Gdynia;58;ul. Maurycego Beniowskiego;81-000
+Pomorskie;Gdynia;58;ul. Mitry;81-000
+Pomorskie;Gdynia;58;ul. Rozmarynowa;81-000
+Pomorskie;Gdynia;58;ul. Tęczowa;81-000
+Pomorskie;Gdynia;58;ul. Witolda;81-000
+Pomorskie;Gdynia;58;ul. Aldony;81-000
+Pomorskie;Gdynia;58;ul. Benisławskiego;81-000
+Pomorskie;Gdynia;58;ul. Generała Jarosława Dąbrowskiego;81-000
+Pomorskie;Gdynia;58;ul. Głogowa;81-000
+Pomorskie;Gdynia;58;ul. Gorczycowa;81-000
+Pomorskie;Gdynia;58;ul. Ignacego Oziewicza;81-000
+Pomorskie;Gdynia;58;ul. Maszopów;81-000
+Pomorskie;Gdynia;58;ul. Owsiana;81-000
+Pomorskie;Gdynia;58;ul. Skolska;81-000
+Pomorskie;Gdynia;58;ul. Starogardzka;81-000
+Pomorskie;Gdynia;58;ul. Wiosny Ludów;81-000
+Pomorskie;Gdynia;58;ul. Boisko;81-000
+Pomorskie;Gdynia;58;ul. Brzozowa;81-000
+Pomorskie;Gdynia;58;ul. Kościelna;81-000
+Pomorskie;Gdynia;58;ul. Makowa;81-000
+Pomorskie;Gdynia;58;ul. Okrętowa;81-000
+Pomorskie;Gdynia;58;ul. Przebendowskich;81-000
+Pomorskie;Gdynia;58;ul. Słowicza;81-000
+Pomorskie;Gdynia;58;ul. Lubczykowa;81-000
+Pomorskie;Gdynia;58;ul. Siedlecka;81-000
+Pomorskie;Gdynia;58;ul. Widna;81-000
+Pomorskie;Gniew;58;ul. Stroma;83-140
+Pomorskie;Gniew;58;ul. Plac Grunwaldzki;83-140
+Pomorskie;Gniew;58;ul. Partyzantów;83-140
+Pomorskie;Hel;58;ul. Komandora Porucznika Przybyszewskiego;84-150
+Pomorskie;Hel;58;ul. Szkolna;84-150
+Pomorskie;Hel;58;ul. Kuracyjna;84-150
+Pomorskie;Jastarnia;58;ul. Rynkowa;84-140
+Pomorskie;Jastarnia;58;ul. Zachodnia;84-140
+Pomorskie;Jastarnia;58;ul. Helska;84-140
+Pomorskie;Jastarnia;58;ul. Herrmana;84-140
+Pomorskie;Jastarnia;58;ul. Szynalewskiego;84-140
+Pomorskie;Kartuzy;58;ul. Lipowa;83-300
+Pomorskie;Kartuzy;58;ul. Jeziorna;83-300
+Pomorskie;Kartuzy;58;ul. Wzgórze Wolności;83-300
+Pomorskie;Kartuzy;58;ul. Brzozowa;83-300
+Pomorskie;Kwidzyn;55;ul. Krańcowa;82-500
+Pomorskie;Kwidzyn;55;ul. Wiślana;82-500
+Pomorskie;Kwidzyn;55;ul. Kochanowskiego;82-500
+Pomorskie;Kwidzyn;55;ul. 3 Maja;82-500
+Pomorskie;Kwidzyn;55;ul. Piastowska;82-500
+Pomorskie;Kwidzyn;55;ul. Generała Władysława Sikorskiego;82-500
+Pomorskie;Kwidzyn;55;ul. Warszawska;82-500
+Pomorskie;Kwidzyn;55;ul. Władysława Jagiełły;82-500
+Pomorskie;Kwidzyn;55;ul. Stefana Żeromskiego;82-500
+Pomorskie;Malbork;55;ul. Poznańska;82-200
+Pomorskie;Malbork;55;ul. Władysława Broniewskiego;82-200
+Pomorskie;Malbork;55;ul. Kościelna;82-200
+Pomorskie;Malbork;55;ul. Mieszka I;82-200
+Pomorskie;Malbork;55;ul. Żelazna;82-200
+Pomorskie;Malbork;55;ul. Jana Czerskiego;82-200
+Pomorskie;Malbork;55;ul. Słoneczna;82-200
+Pomorskie;Malbork;55;ul. Stanisławy Walasiewiczówny;82-200
+Pomorskie;Malbork;55;ul. Żeglarska;82-200
+Pomorskie;Malbork;55;ul. Jana Matejki;82-200
+Pomorskie;Malbork;55;ul. Józefa Piłsudskiego;82-200
+Pomorskie;Malbork;55;ul. Bolesława Śmiałego;82-200
+Pomorskie;Malbork;55;ul. Grudziądzka;82-200
+Pomorskie;Malbork;55;ul. Krzywa;82-200
+Pomorskie;Malbork;55;ul. Okopowa;82-200
+Pomorskie;Malbork;55;ul. Plac Janusza Kusocińskiego;82-200
+Pomorskie;Malbork;55;ul. Plac Stanisława Wyspiańskiego;82-200
+Pomorskie;Miastko;59;ul. Domowa;77-200
+Pomorskie;Miastko;59;ul. rondo Jana Pawła II;77-200
+Pomorskie;Miastko;59;ul. Polna;77-200
+Pomorskie;Puck;58;ul. Aleksandra Majkowskiego;84-100
+Pomorskie;Puck;58;ul. Klifowa;84-100
+Pomorskie;Puck;58;ul. Swarzewska;84-100
+Pomorskie;Puck;58;ul. Ślusarska;84-100
+Pomorskie;Puck;58;ul. Komandora Edwarda Szystowskiego;84-100
+Pomorskie;Puck;58;ul. Judyckiego;84-100
+Pomorskie;Puck;58;ul. plac Wolności;84-100
+Pomorskie;Reda;58;ul. 12 Marca;84-240
+Pomorskie;Reda;58;ul. Usługowa;84-240
+Pomorskie;Reda;58;ul. Zuchów;84-240
+Pomorskie;Reda;58;ul. Rajdowa;84-240
+Pomorskie;Reda;58;ul. Adama Asnyka;84-240
+Pomorskie;Reda;58;ul. Słoneczna;84-240
+Pomorskie;Reda;58;ul. 1 Maja;84-240
+Pomorskie;Reda;58;ul. Elizy Orzeszkowej;84-240
+Pomorskie;Reda;58;ul. Topolowa;84-240
+Pomorskie;Rumia;58;ul. 12 Marca;84-230
+Pomorskie;Rumia;58;ul. Gruszkowa;84-230
+Pomorskie;Rumia;58;ul. Olsztyńska;84-230
+Pomorskie;Rumia;58;ul. Parkowa;84-230
+Pomorskie;Rumia;58;ul. Szyprów;84-230
+Pomorskie;Rumia;58;ul. Częstochowska;84-230
+Pomorskie;Rumia;58;ul. Gnieźnieńska;84-230
+Pomorskie;Rumia;58;ul. Jarzębinowa;84-230
+Pomorskie;Rumia;58;ul. Młyńska;84-230
+Pomorskie;Rumia;58;ul. Aleksandra Majkowskiego;84-230
+Pomorskie;Rumia;58;ul. Śląska;84-230
+Pomorskie;Rumia;58;ul. Chabrowa;84-230
+Pomorskie;Rumia;58;ul. Cicha;84-230
+Pomorskie;Rumia;58;ul. Świętojańska;84-230
+Pomorskie;Sopot;58;ul. Małopolska;81-701
+Pomorskie;Sopot;58;ul. Parkowa;81-701
+Pomorskie;Sopot;58;ul. Andrzeja Struga;81-701
+Pomorskie;Sopot;58;ul. Generała Władysława Andersa;81-701
+Pomorskie;Sopot;58;ul. Karlikowska;81-701
+Pomorskie;Sopot;58;ul. Skarpowa;81-701
+Pomorskie;Sopot;58;ul. Tenisowa;81-701
+Pomorskie;Sopot;58;ul. Aleksandra Majkowskiego;81-701
+Pomorskie;Sopot;58;ul. Armii Krajowej;81-701
+Pomorskie;Sopot;58;ul. Jana Kasprowicza;81-701
+Pomorskie;Sopot;58;ul. Mikołaja Kopernika;81-701
+Pomorskie;Sopot;58;ul. Boczna;81-701
+Pomorskie;Sopot;58;ul. Wejherowska;81-701
+Pomorskie;Tczew;58;ul. Stanisława Konarskiego;83-100
+Pomorskie;Tczew;58;ul. Hugona Kołłątaja;83-100
+Pomorskie;Tczew;58;ul. Rybacka;83-100
+Pomorskie;Tczew;58;ul. Mikołaja Reja;83-100
+Pomorskie;Tczew;58;ul. Armii Krajowej;83-100
+Pomorskie;Tczew;58;ul. Jana z Kolna;83-100
+Pomorskie;Tczew;58;ul. Wojciecha Kossaka;83-100
+Pomorskie;Tczew;58;ul. Retmańska;83-100
+Pomorskie;Tczew;58;ul. Juliana Przybosia;83-100
+Pomorskie;Tczew;58;ul. Karola Borchardta;83-100
+Pomorskie;Ustka;59;ul. Mała;76-270
+Pomorskie;Ustka;59;ul. Uroczysko;76-270
+Pomorskie;Ustka;59;ul. Widnica;76-270
+Pomorskie;Ustka;59;ul. Kopernika;76-270
+Pomorskie;Ustka;59;ul. Nagietkowa;76-270
+Pomorskie;Ustka;59;ul. Włoska;76-270
+Pomorskie;Ustka;59;ul. Jagiellońska;76-270
+Pomorskie;Wejherowo;58;ul. Rzemieślnicza;84-200
+Pomorskie;Wejherowo;58;ul. Jana III Sobieskiego;84-200
+Pomorskie;Wejherowo;58;ul. Wczasowa;84-200
+Pomorskie;Wejherowo;58;ul. Adama Mickiewicza;84-200
+Pomorskie;Wejherowo;58;ul. Juliana Tuwima;84-200
+Pomorskie;Wejherowo;58;ul. Marii Skibniewskiej;84-200
+Pomorskie;Wejherowo;58;ul. Osiedle Kaszubskie;84-200
+Pomorskie;Wejherowo;58;ul. Otylii Szczukowskiej;84-200
+Pomorskie;Wejherowo;58;ul. Bolesława Leśmiana;84-200
+Pomorskie;Wejherowo;58;ul. Drzewiarza;84-200
+Pomorskie;Wejherowo;58;ul. Bukowa;84-200
+Pomorskie;Wejherowo;58;ul. Jana Kochanowskiego;84-200
+Pomorskie;Wejherowo;58;ul. Spacerowa;84-200
+Pomorskie;Wejherowo;58;ul. Franciszka Sędzickiego;84-200
+Pomorskie;Wejherowo;58;ul. Pokoju;84-200
+Pomorskie;Wejherowo;58;ul. Poprzeczna;84-200
+Pomorskie;Wejherowo;58;ul. Cicha;84-200
+Pomorskie;Wejherowo;58;ul. I Morskiego Pułku Strzelców;84-200
+Pomorskie;Wejherowo;58;ul. Jarosława Iwaszkiewicza;84-200
+Pomorskie;Wejherowo;58;ul. Mostnika;84-200
+Pomorskie;Wejherowo;58;ul. Piłsudskiego;84-200
+Pomorskie;Wejherowo;58;ul. Rzeźnicka;84-200
+Świętokrzyskie;Chmielnik;41;ul. Słoneczna;36-016
+Świętokrzyskie;Chmielnik;41;ul. Dębowa;36-016
+Świętokrzyskie;Chmielnik;41;ul. Konopnickiej;36-016
+Warmińsko-Mazurskie;Barczewo;89;ul. Narbutta;11-010
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Joachima Lelewela;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Andrzeja Struga;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Fryderyka Chopina;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. rondo Solidarności;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Rzeźników;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Bolesława Prusa;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Marii Konopnickiej;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Stefana Żeromskiego;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Wrzosowa;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Hubalczyków;11-200
+Warmińsko-Mazurskie;Bartoszyce;89;ul. Tadeusza Kościuszki;11-200
+Warmińsko-Mazurskie;Biskupiec;89;ul. Słoneczna;11-300
+Warmińsko-Mazurskie;Biskupiec;89;ul. Sztynwałdzka;11-300
+Warmińsko-Mazurskie;Braniewo;55;ul. Drewniana;14-500
+Warmińsko-Mazurskie;Braniewo;55;ul. Ogrodowa;14-500
+Warmińsko-Mazurskie;Braniewo;55;ul. Matejki;14-500
+Warmińsko-Mazurskie;Braniewo;55;ul. Botaniczna;14-500
+Warmińsko-Mazurskie;Braniewo;55;ul. Dąbrowskiego;14-500
+Warmińsko-Mazurskie;Braniewo;55;ul. Gdańska;14-500
+Warmińsko-Mazurskie;Braniewo;55;ul. plac Grunwaldu;14-500
+Warmińsko-Mazurskie;Nidzica;89;ul. Plac Wojciecha z Brudzewa;13-100
+Warmińsko-Mazurskie;Olsztyn;89;ul. Kłosowa;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Lawendowa;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Marcina Kasprzaka;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Melchiora Wańkowicza;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Plac Jana Pawla II;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Grunwaldzka;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Mariańska;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Oficerska;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Opolska;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Zakopiańska;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Bałtycka;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Edwarda Abramowskiego;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Ignacego Krasickiego;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Sowia;10-001
+Warmińsko-Mazurskie;Olsztyn;89;ul. Tomasza Dziamy;10-001
+Warmińsko-Mazurskie;Olsztynek;89;ul. Kajki;11-015
+Warmińsko-Mazurskie;Olsztynek;89;ul. Nowowiejskiego;11-015
+Warmińsko-Mazurskie;Olsztynek;89;ul. Świerczewskiego;11-015
+Warmińsko-Mazurskie;Olsztynek;89;ul. 22 Lipca;11-015
+Warmińsko-Mazurskie;Olsztynek;89;ul. Poranna;11-015
+Warmińsko-Mazurskie;Olsztynek;89;ul. S51;11-015
+Warmińsko-Mazurskie;Pisz;87;ul. Parkowa;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Łabędzia;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Dworcowa;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Mała;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Prusa;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Pszeniczna;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Młodzieżowa;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Gizewiusza;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Skrzetuskiego;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Szeroka;12-200
+Warmińsko-Mazurskie;Pisz;87;ul. Usługowa;12-200
+Warmińsko-Mazurskie;Szczytno;89;ul. Nauczycielska;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Lipowa;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Zygmunta Augusta;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Fryderyka Leyka;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Droga Krajowa 58;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Wojciecha Kętrzyńskiego;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Białostocka;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Generała Władysława Sikorskiego;12-100
+Warmińsko-Mazurskie;Szczytno;89;ul. Piaskowa;12-100
+Warmińsko-Mazurskie;Tolkmicko;55;ul. Leśna;82-340
+Warmińsko-Mazurskie;Tolkmicko;55;ul. Krzywa;82-340
+Warmińsko-Mazurskie;Tolkmicko;55;ul. Ogrodowa;82-340
+Warmińsko-Mazurskie;Tolkmicko;55;ul. Osiedlowa;82-340
+Wielkopolskie;Czerniejewo;61;ul. Żeromskiego;62-250
+Wielkopolskie;Dobra;18;ul. Cyprysowa;34-642
+Wielkopolskie;Gniezno;61;ul. Wiejska;62-200
+Wielkopolskie;Gniezno;61;ul. Konopnickiej;62-200
+Wielkopolskie;Gniezno;61;ul. Kornela Makuszyńskiego;62-200
+Wielkopolskie;Gniezno;61;ul. Bukowa;62-200
+Wielkopolskie;Gniezno;61;ul. Łaskiego;62-200
+Wielkopolskie;Gniezno;61;ul. Morelowa;62-200
+Wielkopolskie;Gniezno;61;ul. Paczkowskiego;62-200
+Wielkopolskie;Gniezno;61;ul. Ustronie;62-200
+Wielkopolskie;Gniezno;61;ul. Cieszkowskiego;62-200
+Wielkopolskie;Gniezno;61;ul. Młyńska;62-200
+Wielkopolskie;Gniezno;61;ul. Pogodna;62-200
+Wielkopolskie;Gniezno;61;ul. wiadukt Solidarności;62-200
+Wielkopolskie;Gniezno;61;ul. Armii Krajowej;62-200
+Wielkopolskie;Gniezno;61;ul. Franklina Roosevelta;62-200
+Wielkopolskie;Gniezno;61;ul. Wolności;62-200
+Wielkopolskie;Gniezno;61;ul. Mała;62-200
+Wielkopolskie;Gniezno;61;ul. Surowieckiego;62-200
+Wielkopolskie;Gniezno;61;ul. Jeziorna;62-200
+Wielkopolskie;Gniezno;61;ul. Juliusza Słowackiego;62-200
+Wielkopolskie;Gniezno;61;ul. Kalina;62-200
+Wielkopolskie;Gniezno;61;ul. Kampanii Wrześniowej;62-200
+Wielkopolskie;Kleczew;63;ul. Białobrodzka;62-540
+Wielkopolskie;Kleczew;63;ul. Jaśminowa;62-540
+Wielkopolskie;Kleczew;63;ul. św. Kingi;62-540
+Wielkopolskie;Kostrzyn;61;ul. Mieszka I;62-025
+Wielkopolskie;Kostrzyn;61;ul. Mazowiecka;62-025
+Wielkopolskie;Kostrzyn;61;ul. Wiosny Ludów;62-025
+Wielkopolskie;Kostrzyn;61;ul. Makowa;62-025
+Wielkopolskie;Kostrzyn;61;ul. Ignacewo;62-025
+Wielkopolskie;Kostrzyn;61;ul. Lotników;62-025
+Wielkopolskie;Kostrzyn;61;ul. Malwowa;62-025
+Wielkopolskie;Kostrzyn;61;ul. Okrężna;62-025
+Wielkopolskie;Pleszew;62;ul. Bramkowa;63-300
+Wielkopolskie;Pleszew;62;ul. Warneńczyka;63-300
+Wielkopolskie;Pleszew;62;ul. Wiśniowa;63-300
+Wielkopolskie;Pleszew;62;ul. Tuwima;63-300
+Wielkopolskie;Pleszew;62;ul. Błotna;63-300
+Wielkopolskie;Pleszew;62;ul. Stanisława Augusta Poniatowskiego;63-300
+Wielkopolskie;Pleszew;62;ul. Kaliska;63-300
+Wielkopolskie;Pleszew;62;ul. Bolesława Krzywoustego;63-300
+Wielkopolskie;Pleszew;62;ul. Włodzimierza Jacorzyńskiego;63-300
+Wielkopolskie;Pobiedziska;61;ul. Malinowa;62-010
+Wielkopolskie;Pobiedziska;61;ul. Tysiąclecia;62-010
+Wielkopolskie;Pobiedziska;61;ul. Odrzańska;62-010
+Wielkopolskie;Pobiedziska;61;ul. Bolesława Chrobrego;62-010
+Wielkopolskie;Pobiedziska;61;ul. Władysława Jagiełły;62-010
+Wielkopolskie;Poniec;65;ul. Drożdżyńskiego;64-125
+Wielkopolskie;Poniec;65;ul. Świerkowa;64-125
+Wielkopolskie;Poniec;65;ul. Cypriana Kamila Norwida;64-125
+Wielkopolskie;Poniec;65;ul. Dworcowa;64-125
+Wielkopolskie;Poniec;65;ul. Wolności;64-125
+Wielkopolskie;Pyzdry;63;ul. 11 Listopada;62-310
+Wielkopolskie;Pyzdry;63;ul. Konopnickiej;62-310
+Wielkopolskie;Rydzyna;65;ul. plac Zamkowy;64-130
+Wielkopolskie;Witkowo;61;ul. Piastowska;62-230
+Wielkopolskie;Witkowo;61;ul. Piękna;62-230
+Wielkopolskie;Witkowo;61;ul. Akacjowa;62-230
+Wielkopolskie;Witkowo;61;ul. Komisji Edukacji Narodowej;62-230
+Wielkopolskie;Witkowo;61;ul. Adama Mickiewicza;62-230
+Wielkopolskie;Witkowo;61;ul. Dworcowa;62-230
+Wielkopolskie;Wolsztyn;68;ul. Józefa Wybickiego;64-200
+Wielkopolskie;Wolsztyn;68;ul. Łąkowa;64-200
+Wielkopolskie;Wolsztyn;68;ul. Przemysłowa;64-200
+Wielkopolskie;Wolsztyn;68;ul. Osiedlowa;64-200
+Wielkopolskie;Wronki;67;ul. Spokojna;64-510
+Wielkopolskie;Wronki;67;ul. Sosnowa;64-510
+Wielkopolskie;Wronki;67;ul. Brzoskwiniowa;64-510
+Zachodniopomorskie;Cedynia;91;ul. Krótka;74-520
+Zachodniopomorskie;Cedynia;91;ul. Fryderyka Chopina;74-520
+Zachodniopomorskie;Cedynia;91;ul. Księdza Skorupki;74-520
+Zachodniopomorskie;Cedynia;91;ul. Kolonia;74-520
+Zachodniopomorskie;Choszczno;95;ul. Ogrodowa;73-200
+Zachodniopomorskie;Czaplinek;94;ul. Kaszubska;78-550
+Zachodniopomorskie;Czaplinek;94;ul. Mazurska;78-550
+Zachodniopomorskie;Czaplinek;94;ul. Pławieńska;78-550
+Zachodniopomorskie;Dobra;18;ul. Dobra;34-642
+Zachodniopomorskie;Dobra;18;ul. Przyjemna;34-642
+Zachodniopomorskie;Dobra;18;ul. Jaśminowa;34-642
+Zachodniopomorskie;Dobrzany;91;ul. Parkowa;73-130
+Zachodniopomorskie;Dobrzany;91;ul. Armii Czerwonej;73-130
+Zachodniopomorskie;Dobrzany;91;ul. Dworcowa;73-130
+Zachodniopomorskie;Dobrzany;91;ul. Wiosny Ludów;73-130
+Zachodniopomorskie;Koszalin;94;ul. Bogusława II;75-001
+Zachodniopomorskie;Koszalin;94;ul. Grottgera;75-001
+Zachodniopomorskie;Koszalin;94;ul. Sudecka;75-001
+Zachodniopomorskie;Koszalin;94;ul. Tradycji;75-001
+Zachodniopomorskie;Koszalin;94;ul. Kupiecka;75-001
+Zachodniopomorskie;Koszalin;94;ul. Macierzy;75-001
+Zachodniopomorskie;Koszalin;94;ul. Na Jamno;75-001
+Zachodniopomorskie;Koszalin;94;ul. Okrężna;75-001
+Zachodniopomorskie;Koszalin;94;ul. Tytusa Chałubińskiego;75-001
+Zachodniopomorskie;Koszalin;94;ul. Rynek Staromiejski;75-001
+Zachodniopomorskie;Koszalin;94;ul. Ulica Bławatków;75-001
+Zachodniopomorskie;Koszalin;94;ul. Władysława Turowskiego;75-001
+Zachodniopomorskie;Koszalin;94;ul. Kołłątaja;75-001
+Zachodniopomorskie;Koszalin;94;ul. Podlaska;75-001
+Zachodniopomorskie;Koszalin;94;ul. Słupska;75-001
+Zachodniopomorskie;Koszalin;94;ul. Szkolna;75-001
+Zachodniopomorskie;Koszalin;94;ul. Ulica Radogoszczańska;75-001
+Zachodniopomorskie;Koszalin;94;ul. Krańcowa;75-001
+Zachodniopomorskie;Koszalin;94;ul. Zdobywców Wału Pomorskiego;75-001
+Zachodniopomorskie;Koszalin;94;ul. Adama Asnyka;75-001
+Zachodniopomorskie;Koszalin;94;ul. Grecka;75-001
+Zachodniopomorskie;Koszalin;94;ul. Modrzejewskiej;75-001
+Zachodniopomorskie;Koszalin;94;ul. Pionierów;75-001
+Zachodniopomorskie;Koszalin;94;ul. Róż;75-001
+Zachodniopomorskie;Koszalin;94;ul. Jantarowa;75-001
+Zachodniopomorskie;Koszalin;94;ul. Mazowiecka;75-001
+Zachodniopomorskie;Koszalin;94;ul. Ogrodowa;75-001
+Zachodniopomorskie;Koszalin;94;ul. Bartosza Głowackiego;75-001
+Zachodniopomorskie;Koszalin;94;ul. Generała Józefa Sowińskiego;75-001
+Zachodniopomorskie;Koszalin;94;ul. Lawendy;75-001
+Zachodniopomorskie;Koszalin;94;ul. Walerego Wróblewskiego;75-001
+Zachodniopomorskie;Nowogard;91;ul. Jana Kasprowicza;72-200
+Zachodniopomorskie;Nowogard;91;ul. Bohaterów Warszawy;72-200
+Zachodniopomorskie;Nowogard;91;ul. Stefana Grota-Roweckiego;72-200
+Zachodniopomorskie;Nowogard;91;ul. Henryka Sienkiewicza;72-200
+Zachodniopomorskie;Nowogard;91;ul. Romualda Traugutta;72-200
+Zachodniopomorskie;Szczecin;91;ul. Boguchwały;70-001
+Zachodniopomorskie;Szczecin;91;ul. Harcerzy;70-001
+Zachodniopomorskie;Szczecin;91;ul. Janka Muzykanta;70-001
+Zachodniopomorskie;Szczecin;91;ul. Kąpieliskowa;70-001
+Zachodniopomorskie;Szczecin;91;ul. Limby;70-001
+Zachodniopomorskie;Szczecin;91;ul. Lwowska;70-001
+Zachodniopomorskie;Szczecin;91;ul. Narewska;70-001
+Zachodniopomorskie;Szczecin;91;ul. Obłoków;70-001
+Zachodniopomorskie;Szczecin;91;ul. Pod Urwiskiem;70-001
+Zachodniopomorskie;Szczecin;91;ul. rondo Sybiraków;70-001
+Zachodniopomorskie;Szczecin;91;ul. Rybnicka;70-001
+Zachodniopomorskie;Szczecin;91;ul. Srebrna;70-001
+Zachodniopomorskie;Szczecin;91;ul. Zabużańska;70-001
+Zachodniopomorskie;Szczecin;91;ul. Zakopiańska;70-001
+Zachodniopomorskie;Szczecin;91;ul. Zielna;70-001
+Zachodniopomorskie;Szczecin;91;ul. aleja Wyzwolenia;70-001
+Zachodniopomorskie;Szczecin;91;ul. Beztroska;70-001
+Zachodniopomorskie;Szczecin;91;ul. Boczna;70-001
+Zachodniopomorskie;Szczecin;91;ul. Grodzka;70-001
+Zachodniopomorskie;Szczecin;91;ul. Jabłoniowa;70-001
+Zachodniopomorskie;Szczecin;91;ul. Kręta;70-001
+Zachodniopomorskie;Szczecin;91;ul. plac Cypriana Kamila Norwida;70-001
+Zachodniopomorskie;Szczecin;91;ul. Rokitniańska;70-001
+Zachodniopomorskie;Szczecin;91;ul. Stefana Jaracza;70-001
+Zachodniopomorskie;Szczecin;91;ul. Tadeusza Boya-Żeleńskiego;70-001
+Zachodniopomorskie;Szczecin;91;ul. Witolda Starkiewicza;70-001
+Zachodniopomorskie;Szczecin;91;ul. Zapomniana;70-001
+Zachodniopomorskie;Wolin;91;ul. Księżnej Zofii;72-510
+Zachodniopomorskie;Wolin;91;ul. Zamkowa;72-510
+Zachodniopomorskie;Wolin;91;ul. Kościelna;72-510
+Zachodniopomorskie;Wolin;91;ul. Wojska Polskiego;72-510

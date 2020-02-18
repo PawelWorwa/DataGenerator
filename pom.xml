@@ -2,27 +2,39 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>pl.data.generator</groupId>
-	<artifactId>dataGenerator</artifactId>
-	<version>1.0.0</version>
-	<packaging>jar</packaging>
-
-	<name>DataGeneratorLibrary</name>
-	<url>http://maven.apache.org</url>
+    <groupId>com.data.generator</groupId>
+    <artifactId>data-generator</artifactId>
+    <version>2.0.0</version>
+    <packaging>jar</packaging>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<junit.version>4.11</junit.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
+
+        <junit.version>5.6.0</junit.version>
+        <guava.version>28.1-jre</guava.version>
+        <moznion.version>1.1.0</moznion.version>
 	</properties>
 
 	<dependencies>
 		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
 			<version>${junit.version}</version>
+			<scope>test</scope>
 		</dependency>
-	</dependencies>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>${guava.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>net.moznion</groupId>
+			<artifactId>random-string</artifactId>
+			<version>${moznion.version}</version>
+		</dependency>
 
+
+	</dependencies>
 </project>
