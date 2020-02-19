@@ -31,7 +31,7 @@ Simple configuration for maven **pom.xml** file could look as below:
 		<dependency>
 		<groupId>com.github.PawelWorwa</groupId>
 		<artifactId>DataGenerator</artifactId>
-		<version>2.0.0</version>
+		<version>2.0.1</version>
 		</dependency>
 	</dependencies>
 (...)
